@@ -1,17 +1,19 @@
-# Se puede nombrar como AgregarRevisarDefinitiva
+# AgregarRevisarDefinitiva
 
-### Elaborado por Mateo Molina González
+     Elaborado por Mateo Molina González
 
 ## Tabla de Contenidos
 - [Descripción](#descripción)
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Ejecucion](#ejecucion)
 - [Dependencias](#dependencias)
-- [Licencia](#licencia)
 
 ## Descripción
 
-El responsable tendra la oportunidad de ingresar al sistema para registrar la notas que ha tenido el estudiante durante su periodo academico, teniendo la posibilidad de buscar y navegar entre los diferentes estudiantes y asignaturas, Ademas tienes otra vista que permite buscar por asignatura y te filtrara los estudiantes ya previamente registrados por el docente con su respectiva información, 
+     El responsable tendra la oportunidad de ingresar al sistema para registrar la notas que ha tenido el estudiante durante 
+     su periodo academico, teniendo la posibilidad de buscar y navegar entre los diferentes estudiantes y asignaturas, Ademas 
+     tienes otra vista que permite buscar por asignatura y te filtrara los estudiantes ya previamente registrados por el docente 
+     con su respectiva información
 
 ## Capturas de Pantalla
 ![Pantalla de Inicio](/screenshots/inicio.png)
@@ -19,9 +21,9 @@ El responsable tendra la oportunidad de ingresar al sistema para registrar la no
 
 ## Ejecucion
 
-Abrir la consola en Visual Studio Code, ingresar el comando reservado "npm start" se te ejecutara en tu navegador predeterminado
+     npm start
 
-# Dependencias utilizadas
+## Dependencias
 
     "@expo/webpack-config": "^19.0.0",
     "@react-navigation/native": "^6.1.7",
@@ -33,5 +35,3 @@ Abrir la consola en Visual Studio Code, ingresar el comando reservado "npm start
     "react-native": "0.72.4",
     "react-native-paper": "^5.10.4",
     "react-native-web": "~0.19.6"
-
-MIT License
