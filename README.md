@@ -10,10 +10,10 @@
 
 ## Descripción
 
-     El responsable tendra la oportunidad de ingresar al sistema para registrar la notas que ha tenido el estudiante durante 
-     su periodo academico, teniendo la posibilidad de buscar y navegar entre los diferentes estudiantes y asignaturas, Ademas 
-     tienes otra vista que permite buscar por asignatura y te filtrara los estudiantes ya previamente registrados por el docente 
-     con su respectiva información
+     El responsable tendra la oportunidad de ingresar al sistema para registrar la notas que ha tenido 
+     el estudiante durante su periodo academico, teniendo la posibilidad de buscar y navegar entre los 
+     diferentes estudiantes y asignaturas, Ademas tienes otra vista que permite buscar por asignatura 
+     y te filtrara los estudiantes ya previamente registrados por el docente con su respectiva información
 
 ## Capturas de Pantalla
 ![Pantalla de Inicio](/screenshots/inicio.png)
